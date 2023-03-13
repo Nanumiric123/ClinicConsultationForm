@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicConsultationForm", "ClinicConsultationForm.csproj", "{96AB98ED-8733-492F-8B0E-BB0987C44FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AB98ED-8733-492F-8B0E-BB0987C44FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AB98ED-8733-492F-8B0E-BB0987C44FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AB98ED-8733-492F-8B0E-BB0987C44FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AB98ED-8733-492F-8B0E-BB0987C44FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA22C5F4-5D37-442A-9BC1-73613CD0B2A3}
+	EndGlobalSection
+EndGlobal
